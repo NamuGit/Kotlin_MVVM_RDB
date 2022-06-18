@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">K-Space</string>
+    <string name="DB_table">space_data_table</string>
+    <string name="DB_name">Space_DB</string>
+</resources>
